@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kousiclattala
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning How to store files in DB using NodeJS, Firestore (Firebase) etc.
+- 🌱 I’m currently working on my personal project named "Draft".
 - 💞️ I’m looking to collaborate on small to medium projects.
 - 📫 How to reach me - ping me a message on instagram @kousiclattala 
 
