@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kousiclattala
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently working on my personal project named "Draft".
+- 👀 I’m a React Native Developer and improving my knowledge in Full Stack Development.
+- 🌱 I’m currently working as React Native Developer in Versatile Commerce.
 - 💞️ I’m looking to collaborate on small to medium projects.
 - 📫 How to reach me - ping me a message on instagram @kousiclattala 
 
